@@ -1,0 +1,6 @@
+menuModel
+-- id INT NOT NULL PRIMARY KEY
+-- description VARCHAR NOT NULL
+-- size
+-- price
+-- category (food/drink)
